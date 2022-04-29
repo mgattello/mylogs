@@ -1,0 +1,18 @@
+[
+    {
+        "timeInMinutes": 20,
+        "task": "reading",
+        "description": "Introducing Job Resource and Cron Jobs.",
+        "tags": ["Kubernates", "Job Resource", "Cron Jobs"],
+        "resource": "Kubernates in Action by Marko Luksa",
+        "date": "29-04-2022"
+    },
+    {
+        "timeInMinutes": 60,
+        "task": "coding",
+        "description": "Java basics, booleans and logic operators",
+        "tags": ["Java", "Booleans", "Logic Operators"],
+        "resource": "https://exercism.org/tracks/java/concepts",
+        "date": "29-04-2022"
+    }
+]
