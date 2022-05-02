@@ -22,5 +22,13 @@
         "tags": ["Java", "Class", "String"],
         "resource": ["https://exercism.org/tracks/java/concepts", "https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/lang/String.html#split(java.lang.String,int)", "https://docs.oracle.com/javase/tutorial/java/data/buffers.html", "https://docs.oracle.com/javase/8/docs/api/java/lang/String.html#concat-java.lang.String-"],
         "date": "30-04-2022"
+    },
+    {
+        "timeInMinutes": 60,
+        "task": "coding",
+        "description": "Java Class SringBuilder, reverse, Character, IntStream, codePoints String into Unicode code Points, collect(supplier, accumulator, combiner), limit",
+        "tags": ["Java"],
+        "resource": ["https://exercism.org/tracks/java/concepts", "https://www.techiedelight.com/convert-intstream-string-vice-versa/", "https://docs.oracle.com/javase/8/docs/api/java/lang/StringBuilder.html#setLength-int-", "https://docs.oracle.com/javase/8/docs/api/java/util/stream/IntStream.html#limit-long-"],
+        "date": "02-05-2022"
     }
 ]
