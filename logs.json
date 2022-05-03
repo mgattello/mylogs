@@ -30,5 +30,13 @@
         "tags": ["Java"],
         "resource": ["https://exercism.org/tracks/java/concepts", "https://www.techiedelight.com/convert-intstream-string-vice-versa/", "https://docs.oracle.com/javase/8/docs/api/java/lang/StringBuilder.html#setLength-int-", "https://docs.oracle.com/javase/8/docs/api/java/util/stream/IntStream.html#limit-long-"],
         "date": "02-05-2022"
+    },
+    {
+        "timeInMinutes": 20,
+        "task": "reading",
+        "description": "Kubernates Service, configuration and discovering",
+        "tags": ["Session Affinity", "FQDN", "kube-dns"],
+        "resource": ["Kubernates in Action by Marko Luksa"],
+        "date": "03-05-2022"
     }
 ]
