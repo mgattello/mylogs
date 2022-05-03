@@ -38,5 +38,13 @@
         "tags": ["Session Affinity", "FQDN", "kube-dns"],
         "resource": ["Kubernates in Action by Marko Luksa"],
         "date": "03-05-2022"
+    },
+    {
+        "timeInMinutes": 60,
+        "task": "coding",
+        "description": "Java String, Character, StringBuilder, If Conditions, Switch",
+        "tags": ["String", "Character", "StringBuilder", "indexOf", "setCharAt", "deleteCharAt", "Character.toUpperCase()"],
+        "resource": ["https://exercism.org/tracks/java/concepts"],
+        "date": "29-04-2022"
     }
 ]
