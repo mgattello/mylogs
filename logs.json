@@ -45,6 +45,6 @@
         "description": "Java String, Character, StringBuilder, If Conditions, Switch",
         "tags": ["String", "Character", "StringBuilder", "indexOf", "setCharAt", "deleteCharAt", "Character.toUpperCase()"],
         "resource": ["https://exercism.org/tracks/java/concepts"],
-        "date": "29-04-2022"
+        "date": "04-05-2022"
     }
 ]
