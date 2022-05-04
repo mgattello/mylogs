@@ -54,5 +54,13 @@
         "tags": ["deleteCharAt", "setCharAt", "indexOf"],
         "resource": ["https://exercism.org/tracks/java/concepts"],
         "date": "04-05-2022"
+    },
+    {
+        "timeInMinutes": 20,
+        "task": "coding",
+        "description": "Java Numbers",
+        "tags": ["int", "double", "Java has no concept of truthy values", "(int) explicit conversions"],
+        "resource": ["https://exercism.org/tracks/java/concepts"],
+        "date": "05-05-2022"
     }
 ]
