@@ -46,5 +46,13 @@
         "tags": ["String", "Character", "StringBuilder", "indexOf", "setCharAt", "deleteCharAt", "Character.toUpperCase()"],
         "resource": ["https://exercism.org/tracks/java/concepts"],
         "date": "04-05-2022"
+    },
+    {
+        "timeInMinutes": 30,
+        "task": "coding",
+        "description": "Java String, Character, StringBuilder",
+        "tags": ["deleteCharAt", "setCharAt", "indexOf"],
+        "resource": ["https://exercism.org/tracks/java/concepts"],
+        "date": "04-05-2022"
     }
 ]
