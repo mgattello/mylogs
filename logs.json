@@ -62,5 +62,13 @@
         "tags": ["int", "double", "Java has no concept of truthy values", "(int) explicit conversions"],
         "resource": ["https://exercism.org/tracks/java/concepts"],
         "date": "05-05-2022"
+    },
+    {
+        "timeInMinutes": 60,
+        "task": "reading",
+        "description": "Kubernates Service & Endpoints, Exposing services",
+        "tags": ["NodePort", "LoadBalancer", "Ingress", "JSONPath", "Session Affinity and Web browsers", "externalTrafficPolicy", "SNAT", "Ingress Controller", "Ingress to handle TLS traffic"],
+        "resource": ["Kubernates in Action by Marko Luksa"],
+        "date": "05-05-2022"
     }
 ]
