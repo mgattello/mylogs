@@ -70,5 +70,13 @@
         "tags": ["NodePort", "LoadBalancer", "Ingress", "JSONPath", "Session Affinity and Web browsers", "externalTrafficPolicy", "SNAT", "Ingress Controller", "Ingress to handle TLS traffic"],
         "resource": ["Kubernates in Action by Marko Luksa"],
         "date": "05-05-2022"
+    },
+    {
+        "timeInMinutes": 60,
+        "task": "coding",
+        "description": "Java Double, Float, Array, For Loop",
+        "tags": ["collection", "double", "For Loop"],
+        "resource": ["https://exercism.org/tracks/java/concepts"],
+        "date": "08-05-2022"
     }
 ]
