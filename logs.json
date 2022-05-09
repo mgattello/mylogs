@@ -78,5 +78,13 @@
         "tags": ["collection", "double", "For Loop"],
         "resource": ["https://exercism.org/tracks/java/concepts"],
         "date": "08-05-2022"
+    },
+    {
+        "timeInMinutes": 20,
+        "task": "coding",
+        "description": "Java generic types",
+        "tags": ["ClassName<T1>", "InterfaceName<T1>", "List", "ArrayList", "LinkedList", "size, add, remove, contains, get"],
+        "resource": ["https://exercism.org/tracks/java/concepts"],
+        "date": "09-05-2022"
     }
 ]
