@@ -86,5 +86,13 @@
         "tags": ["ClassName<T1>", "InterfaceName<T1>", "List", "ArrayList", "LinkedList", "size, add, remove, contains, get"],
         "resource": ["https://exercism.org/tracks/java/concepts"],
         "date": "09-05-2022"
+    },
+    {
+        "timeInMinutes": 20,
+        "task": "coding",
+        "description": "Java Class",
+        "tags": ["members: fields & methods", "object, new", "public", "static", "void"],
+        "resource": ["https://exercism.org/tracks/java/concepts"],
+        "date": "10-05-2022"
     }
 ]
