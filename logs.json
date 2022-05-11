@@ -94,5 +94,13 @@
         "tags": ["members: fields & methods", "object, new", "public", "static", "void"],
         "resource": ["https://exercism.org/tracks/java/concepts"],
         "date": "10-05-2022"
+    },
+    {
+        "timeInMinutes": 20,
+        "task": "coding",
+        "description": "Java Ternary Operator, Salary Calculator exercise",
+        "tags": ["ternary operator"],
+        "resource": ["https://exercism.org/tracks/java/concepts"],
+        "date": "11-05-2022"
     }
 ]
