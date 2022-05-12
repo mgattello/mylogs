@@ -102,5 +102,13 @@
         "tags": ["ternary operator"],
         "resource": ["https://exercism.org/tracks/java/concepts"],
         "date": "11-05-2022"
+    },
+    {
+        "timeInMinutes": 20,
+        "task": "coding",
+        "description": "Java Interface, Cloneable, Comperable<T>",
+        "tags": ["Interface"],
+        "resource": ["https://exercism.org/tracks/java/concepts", "https://docs.oracle.com/javase/7/docs/api/java/util/Collections.html", "https://docs.oracle.com/javase/8/docs/api/java/lang/Comparable.html"],
+        "date": "12-05-2022"
     }
 ]
