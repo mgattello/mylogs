@@ -110,5 +110,13 @@
         "tags": ["Interface"],
         "resource": ["https://exercism.org/tracks/java/concepts", "https://docs.oracle.com/javase/7/docs/api/java/util/Collections.html", "https://docs.oracle.com/javase/8/docs/api/java/lang/Comparable.html"],
         "date": "12-05-2022"
-    }
+    },
+    {
+        "timeInMinutes": 30,
+        "task": "reading",
+        "description": "Kubernates Service, configuration and discovering",
+        "tags": ["Type of readiness probes", "Using headless service for discovering individual pods", "Discovering pods through DNS", "Trubleshooting services"],
+        "resource": ["Kubernates in Action by Marko Luksa"],
+        "date": "18-05-2022"
+    }    
 ]
